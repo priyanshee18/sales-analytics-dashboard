@@ -1,4 +1,4 @@
-# sales-analytics-dashboard
+# Sales-analytics-dashboard
 
 This Power BI Sales Analytics Dashboard is built using the AdventureWorks Bicycles dataset , providing an in-depth analysis of sales performance, customer behavior, and product profitability. The dashboard is designed to help businesses make data-driven decisions by visualizing key metrics and trends in an interactive manner.
 
